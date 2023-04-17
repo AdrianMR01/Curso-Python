@@ -1,0 +1,4 @@
+Se grabará en este fichero de texto lo que se está dictando por medio
+del micrófono de Windows Para posteriormente realizar su lectura haciendo
+uso de lenguaje python con el comando right
+Fila infiltrada en el fichero

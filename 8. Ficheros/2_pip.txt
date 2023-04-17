@@ -1,0 +1,16 @@
+Pip es un gestor de paquetes y modulos para python, este es manejado mediante
+la terminal (cmd).
+Este es usado en caso de que algun modulo que nosotros deseemos ocupar no se encuentre
+instalado.
+
+#- pip --version -#
+Permite ver con que versión de pip contamos 
+
+#- pip list -#
+Son los paquetes que tenemos instalados junto con la versión de cada uno
+
+#- pip install nombre del modulo -#
+Permite instalar algun modulo con el que no contemos
+
+#- pip uninstall nombre del modulo -#
+Borra el modulo que nosotros queramos
